@@ -46,7 +46,6 @@ Ensures the quality of the application through manual and automated testing, ide
 - **password_hash**: Encrypted password
 - **first_name**: User's first name
 - **last_name**: User's last name
-- *
 
 Users can create multiple property listings and make multiple bookings.
 
